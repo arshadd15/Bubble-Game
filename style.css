@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "fira code";
+  user-select: none;
 }
 
 html,
@@ -125,6 +126,7 @@ h1 {
 
 span {
   color: coral;
+  user-select: all;
 }
 
 button {
